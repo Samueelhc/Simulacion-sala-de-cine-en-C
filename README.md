@@ -10,8 +10,7 @@ El sistema permite visualizar la sala, reservar asientos y cancelar reservas med
 - Visualización del estado actual de la sala
 - Reserva de asientos disponibles
 - Cancelación de reservas
-- Validación de disponibilidad antes de operar
-- Control de errores en entradas del usuario
+- Salir
 
 ## 🔐 Validaciones implementadas
 
@@ -26,10 +25,7 @@ El sistema permite visualizar la sala, reservar asientos y cancelar reservas med
 
 - Arreglos bidimensionales (matrices)
 - Manejo de memoria básica
-- Estructuras de control
-- Validación de entrada con `scanf` y limpieza de buffer
+- Validación de entrada y limpieza de buffer
 - Programación estructurada
 
-## 🎯 Objetivo
 
-Desarrollar una simulación funcional que refuerce los fundamentos del lenguaje C, haciendo énfasis en el manejo seguro de datos y la prevención de errores de ejecución.
